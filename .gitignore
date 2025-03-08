@@ -1,3 +1,9 @@
+# IDE
+.vscode/
+.idea/
+
+.github/
+
 # Compiler files
 cache/
 out/
